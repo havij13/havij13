@@ -8,9 +8,9 @@ Welcome to my GitHub profile! Here, I share my journey in the field of **Informa
 ---
 
 ## 🧰 **Technical Skills**
-- **Penetration Testing**: Web Apps, Mobile Apps, APIs 
-- **Programming**: Python, Bash, PHP, JavaScript (basic)  
-- **Platforms**: TryHackMe, Hack The Box, PortSwigger Lab, CTF challenges  
+- **Penetration Testing**: Web Apps and Mobile Apps
+- **Programming**: Python, Bash, PHP and JavaScript (basic)  
+- **Platforms**: TryHackMe, Hack The Box, PortSwigger Lab and CTF challenges  
 
 ---
 
